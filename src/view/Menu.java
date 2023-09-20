@@ -92,8 +92,8 @@ public class Menu {
     }
 
     public void addTest(){
-        Family family = new Family("Thai Binh");
-        Family family1 = new Family("Phu Yen");
+        Family family = new Family("17A2");
+        Family family1 = new Family("17B1");
         Person person1 = new Person("Pham Dang Quyet", 31, "Free", 19002009);
         Person person2 = new Person("Pham Dang A", 21, "Free", 19002008);
         Person person3 = new Person("Pham Dang B", 41, "Free", 19002007);
